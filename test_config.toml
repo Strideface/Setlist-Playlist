@@ -1,7 +1,0 @@
-[setlist]
-api_key = "UQ1yKtkH7KmvRHBS4KhDjc7kOkt-GhkUyZYA"
-
-[spotify]
-client_id = "1a78e19fdfba48dcba55c0e2882282c7"
-redirect_uri = "https://www.setlist.fm/"
-scope = "user-read-private,playlist-modify-public"
