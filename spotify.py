@@ -9,7 +9,7 @@ from spotipy.oauth2 import SpotifyPKCE
 
 
 def load_config():
-    return toml.load(Path('test_config.toml'))
+    return toml.load(Path('config.toml'))
 
 
 
