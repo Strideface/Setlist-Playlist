@@ -12,7 +12,7 @@
 
 `client_id = xxx`
 
-`redirect_uri = "https://www.setlist.fm/"` (actual redirect site here can be anything)
+`redirect_uri = "https://www.setlist.fm/"`
 
 `scope = "user-read-private,playlist-modify-public"`
 
@@ -30,7 +30,7 @@ It will then prompt you to copy and paste the setlist ID for the setlist you wan
 
 ![image](https://github.com/user-attachments/assets/6aab66e1-2421-4a35-a886-5df10c8d2794)
 
-Paste the ID and enter on the CL. The script should then run and if it is the first time, it will open the Spotify auth window in your browser. Give permission for the app to create a playlist on your Spotify account and it should then redirect you to the setlist.fm home page,
+Paste the ID and enter on the CL. The script should then run and if it is the first time it will open the Spotify auth window in your browser. Give permission for the app to create a playlist on your Spotify account and it should then redirect you to the setlist.fm home page,
 and the url will have a code appended to it. 
 
 ![image](https://github.com/user-attachments/assets/9e23da57-8d85-4b01-9509-837366e37f8a)
